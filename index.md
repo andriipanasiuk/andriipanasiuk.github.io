@@ -6,7 +6,7 @@ title:  Brandon Amos
 <div class="content">
 <div class="pull-right">
 <a href="/images/me-large.png">
-  <img src="/images/me.png" class="rounded-img" alt="Me"/>
+  <img width="200px" height="200px" src="/images/me.jpg" class="rounded-img" alt="Me"/>
 </a>
 </div>
 

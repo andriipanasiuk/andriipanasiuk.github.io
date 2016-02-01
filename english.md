@@ -1,10 +1,10 @@
 ---
 layout: layout
-title: "Posts"
+title: "English learning"
 ---
 
 <div class="content">
-  <h1>Blog Posts</h1>
+  <h1>English Learning</h1>
   <ul class="listing">
     {% for post in site.posts %}
       {% unless post.draft %}

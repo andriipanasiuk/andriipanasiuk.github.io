@@ -1,6 +1,6 @@
 ---
 layout: layout
-title:  Brandon Amos
+title:  Andrii Panasiuk
 ---
 
 <div class="content">
@@ -12,7 +12,7 @@ title:  Brandon Amos
 
 # Andrii Panasiuk
 
-Hi! I'm a humanbeing. Once I realized that the only option to deal with something for me is to deep inside in that. So deeply until I feel that knowledge is in my blood.
+Hi! I'm a humanbeing. Once I realized that the only option to deal with something is to deep inside in that. So deeply until I feel that knowledge is in my blood.
 Here I'd like to describe this path.
 
 

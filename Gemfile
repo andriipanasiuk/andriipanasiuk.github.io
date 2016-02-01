@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
-
-gem 'jekyll'
-gem 'sass'
-gem 'octopress', '~> 3.0.0.rc.12'
-gem 'jekyll-sitemap'
+gem 'github-pages', '42'
+gem 'nokogiri', '~> 1.6'
+gem 'html5_validator', '~> 1.0'
+gem 'w3c_validators', '~> 1.2'
+gem 'colorize', '~> 0.7'
+gem 'html-proofer', '~> 2.6'

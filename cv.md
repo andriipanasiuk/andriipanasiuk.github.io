@@ -74,12 +74,12 @@ Going on a business trip to South Korea for collaborating with Korean part of te
 Kyiv national university of Taras Shevchenko
 Cybernetics, Applied mathematics. Master's degree.
 
-Feel free to contact me
-Skype: andriipanasiuk
-andriipanasiuk@gmail.com
-https://github.com/andriipanasiuk
-https://ua.linkedin.com/in/andriipanasiuk
-Phone: +38 093 797 71 10
+## Feel free to contact me
+Skype: andriipanasiuk<br>
+andriipanasiuk@gmail.com<br>
+https://github.com/andriipanasiuk<br>
+https://ua.linkedin.com/in/andriipanasiuk<br>
+Phone: +38 093 797 71 10<br>
 
 
 </section>

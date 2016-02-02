@@ -1,7 +1,6 @@
-name: Brandon Amos
-url: http://bamos.github.io
+name: Andrii Panasiuk
+url: http://andriipanasiuk.com
 destination: ./_site
-twitter: brandondamos
 lsi: false
 port: 4000
 highlighter: pygments

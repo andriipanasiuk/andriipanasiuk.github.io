@@ -1,20 +1,18 @@
 ---
-layout: layout
-title:  Andrii Panasiuk
+layout: intro
+title:  Andrii Panasiuk house
+custom_css: notehub_style
 ---
 
-<div class="content">
-<div class="pull-right">
-<a href="/images/me-large.png">
-  <img width="200px" height="200px" src="/images/me.jpg" class="rounded-img" alt="Me"/>
-</a>
-</div>
+Привіт! Мене звати Андрій Панасюк. 
 
-# Andrii Panasiuk
+Ти і не уявляєш як я радий тебе тут бачити! Це моя віртуальна домівка, заходь, сідай зручніше - а я заварю каву. Поки вона готується розкажу тобі, що тут до чого. Можливо ти у мене вже бував, і зайшов поцікавитись як справи та дізнатися що нового. Тоді почувай себе вільно, проходь у будинок. 
 
-Hi! I'm a humanbeing. Once I realized that the only option to deal with something is to deep inside in that. So deeply until I feel that knowledge is in my blood.
-Here I'd like to describe this path.
+Якщо ж ти тут вперше, тоді дозволь спочатку провести тобі невеличку екскурсію.
 
+Поглянь направо - там мій робочий кабінет, так званий офіс. Заходь туди і я з радістю розкажу свій професійний шлях, там є розповіді про мої проекти, тих людей, з ким мав щастя працювати.
 
-</div>
+У лівій частині будинку - територія моєї особистості. Там я займаюся тим, що мені цікаво, окрім роботи. Заходь - розкажу, разом обговоримо.
+
+До речі, не дивуйся, якщо моя домівка здасться тобі сумішшю хаосу та структурованості. Так живу!
 

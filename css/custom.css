@@ -1,0 +1,12 @@
+.left-link {
+    position: absolute;
+    left: 3%;
+    top: 35%;
+}
+
+.right-link {
+    position: absolute;
+    right: 3%;
+    top: 35%;
+}
+
